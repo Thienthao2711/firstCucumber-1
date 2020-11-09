@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="733f7dea-65a5-4b0a-ab39-9b6c8e5059b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0o1BOzvRXrOb5GiNllXhQGg5k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/practicecucumber" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="firstcucumber" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Documents\GitHub\Demo_java\Baitap_VNA_buoi_8\firstCucumber\src\test\resources\webdriver" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="firstcucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstcucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="firstcucumber" />
+      <option name="MAIN_CLASS_NAME" value="firstcucumber.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="733f7dea-65a5-4b0a-ab39-9b6c8e5059b9" name="Default Changelist" comment="" />
+      <created>1604846653303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604846653303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2023" y="386" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604848115690">
+      <screen x="1600" y="0" width="1280" height="984" />
+    </state>
+    <state x="2023" y="386" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860/1600.0.1280.984@1600.0.1280.984" timestamp="1604848115690" />
+    <state x="2020" y="246" key="FileChooserDialogImpl" timestamp="1604850142934">
+      <screen x="1600" y="0" width="1280" height="984" />
+    </state>
+    <state x="2020" y="246" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@1600.0.1280.984" timestamp="1604850142934" />
+    <state width="1237" height="411" key="GridCell.Tab.0.bottom" timestamp="1604848144718">
+      <screen x="1600" y="0" width="1280" height="984" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1604847191900" />
+    <state width="1237" height="411" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@1600.0.1280.984" timestamp="1604848144718" />
+    <state width="1237" height="411" key="GridCell.Tab.0.center" timestamp="1604848144718">
+      <screen x="1600" y="0" width="1280" height="984" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1604847191900" />
+    <state width="1237" height="411" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@1600.0.1280.984" timestamp="1604848144718" />
+    <state width="1237" height="411" key="GridCell.Tab.0.left" timestamp="1604848144717">
+      <screen x="1600" y="0" width="1280" height="984" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1604847191900" />
+    <state width="1237" height="411" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@1600.0.1280.984" timestamp="1604848144717" />
+    <state width="1237" height="411" key="GridCell.Tab.0.right" timestamp="1604848144718">
+      <screen x="1600" y="0" width="1280" height="984" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1604847191900" />
+    <state width="1237" height="411" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@1600.0.1280.984" timestamp="1604848144718" />
+  </component>
+</project>

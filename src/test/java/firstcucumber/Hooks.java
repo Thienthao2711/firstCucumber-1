@@ -11,13 +11,16 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Hooks {
     public static WebDriver driver;
+
+
+
     @Before
     public void initTest()
     {
-        System.setProperty("webdriver.chrome.driver", "/Users/khanhtran/Downloads/chromedriver");
-        System.setProperty("webdriver.gecko.driver", "/Users/khanhtran/Downloads/geckodriver");
+        System.setProperty("webdriver.chrome.driver", "src/test/resources/webdriver/chromedriver.exe");
+        System.setProperty("webdriver.gecko.driver", "src/test/resources/webdriver/geckodriver.exe");
         String browserName = System.getProperty("browser", "chrome");
-        if(browserName.equalsIgnoreCase("chrome"))
+        if (browserName.equalsIgnoreCase("chrome"))
             driver = new ChromeDriver();
         else
             driver = new FirefoxDriver();

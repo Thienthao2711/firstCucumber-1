@@ -1,13 +1,9 @@
 package firstcucumber;
 
 import io.cucumber.datatable.DataTable;
-import io.cucumber.java.After;
-import io.cucumber.java.Before;
-import io.cucumber.java.Scenario;
 import io.cucumber.java.en.*;
 import org.junit.Assert;
 import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,6 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class TodoStepDefinitions {
     WebDriver driver;
     DataTable lstKeyword;
+
     public TodoStepDefinitions()
     {
         this.driver = Hooks.driver;
